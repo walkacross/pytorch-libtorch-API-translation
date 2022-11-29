@@ -29,3 +29,6 @@ conda install jupyterlab -c conda-forge
 # open jupyter notebook in terminal
 jupyter notebook
 ~~~
+
+# appendix
+to use the libtorch in notebook, you need download the libtorch-cxx11-ABI version.
